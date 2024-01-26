@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="left">BILLY</h1>
 
-<!--
-**micw1417/micw1417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">BOBBBBBB</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">I LIVE!</h2>
+
+###
+
+<p align="left">PLEASE I DIEEEEEEEE</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<p align="left">NOTHINGGGGGGG</p>
+
+###
+
+<p align="left">Ok i lied</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
